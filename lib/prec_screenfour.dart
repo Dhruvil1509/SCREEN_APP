@@ -28,7 +28,7 @@ class _PrecScreenfourState extends State<PrecScreenfour> {
                   children: [
                     Container(
                       height: 50,
-                      width: 50,
+                      width: 40,
                       decoration:const BoxDecoration(
                         shape: BoxShape.circle,
                         color: Color.fromARGB(204, 228, 221, 221)
